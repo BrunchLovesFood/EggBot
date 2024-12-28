@@ -14,11 +14,17 @@ Start up the bot.
 > node index.js
 
 Commands:
+
 > egghelp
+
 Provides an embed of all the commands Egg has to offer.
+
 > eggjoke
+
 Tells you a joke
+
 > eggpun
+
 Tells you a pun.
 
 This bot is EGGcellent for giving your Guilded servers something dumb and fun to use.
