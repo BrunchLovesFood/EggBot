@@ -6,8 +6,11 @@ You may modify and distribute the following code but it must also be open source
 
 Usage: 
 Install the packages for the bot.
+
 > npm install
+
 Start up the bot.
+
 > node index.js
 
 Commands:
